@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sveltestrap": "^5.11.3"
+  }
+}
